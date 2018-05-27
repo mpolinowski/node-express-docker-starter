@@ -1,0 +1,14 @@
+{
+  "name": "node-express-docker-starter",
+  "version": "1.0.0",
+  "description": "A starter package to run an Node/Express app from a Docker Container",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
